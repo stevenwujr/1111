@@ -6,6 +6,17 @@
 > 本文件整理自一次工作對話，內容包含：資訊圖表檢查與重畫、A–F 各段的佐證資料、預期貢獻與學術價值、500 字摘要定稿，以及待辦事項。
 > 文中的外部數據來自搜尋摘要，尚未逐篇核對原文，**定稿前請回原始來源確認數字與頁碼**。
 
+## 附件
+
+| 檔案 | 說明 |
+|---|---|
+| [01_Proposal_Document.pdf](01_Proposal_Document.pdf) | 提案原文（7 頁） |
+| [房產AI提案評估.pdf](房產AI提案評估.pdf) | 對照作業規範與 A2Z 的分析報告（3 頁） |
+| [A2Z_outline_example.pdf](A2Z_outline_example.pdf) | A2Z SOP 大綱範例（1 頁） |
+| [Taiwan_Housing_Agent_infographic.png](Taiwan_Housing_Agent_infographic.png) | 重畫後的解析資訊圖表 |
+
+![Taiwan Housing Intelligence Agent 專題提案系統性解析資訊圖表](Taiwan_Housing_Agent_infographic.png)
+
 ---
 
 ## 1. 資訊圖表：檢查與重畫
